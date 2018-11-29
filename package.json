@@ -1,0 +1,23 @@
+{
+  "name": "reviewerspy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spy_and_collect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowunclegit/reviewerSpy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cowunclegit/reviewerSpy/issues"
+  },
+  "homepage": "https://github.com/cowunclegit/reviewerSpy#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "request": "^2.88.0"
+  }
+}
